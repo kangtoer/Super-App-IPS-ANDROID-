@@ -1,0 +1,6 @@
+{
+  "name": "Guru IPS Super App",
+  "description": "Super App gratis selamanya untuk membantu segala kebutuhan guru SMP IPS. Dibuat oleh Catur Pamungkas, S.Pd.,Gr. (catatan guru ips.blogspot.com)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
